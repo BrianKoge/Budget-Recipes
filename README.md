@@ -2,6 +2,10 @@
 
 A responsive recipe website with Kenyan and global recipes.
 
+## Live Demo
+
+[https://budgetrecipe.netlify.app/](https://budgetrecipe.netlify.app/)
+
 ## Features
 
 - Modern responsive design that works on desktop and mobile devices
