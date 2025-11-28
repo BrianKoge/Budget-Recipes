@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home | Budget Recipes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <h2><a href="index.html" style="text-decoration: none; color: inherit;">Budget Recipes</a></h2>
+            <!-- Hamburger Menu Icon -->
+            <div class="hamburger-menu" aria-label="Menu" role="button" tabindex="0" aria-expanded="false">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <!-- Desktop Navigation -->
+            <ul class="desktop-nav">
+                <li><a href="index.html" class="active" aria-current="page">Home</a></li>
+                <li><a href="recipes.html">Recipes</a></li>
+                <li><a href="aboutus.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+            <!-- Mobile Navigation -->
+            <ul class="mobile-nav" id="mobileNav">
+                <li><a href="index.html" class="active" aria-current="page">Home</a></li>
+                <li><a href="recipes.html">Recipes</a></li>
+                <li><a href="aboutus.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+            <button id="modeToggle" aria-label="Toggle dark mode">🌙</button>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>Easy, Delicious & Budget-Friendly Recipes</h1>
+        <p>Discover amazing meals that won't break the bank. From traditional Kenyan dishes to international favorites, we've got something for everyone.</p>
+        <a href="recipes.html" class="btn">Explore Recipes</a>
+    </section>
+
+    <section class="highlights">
+        <h2>Popular Kenyan Recipes</h2>
+        <div class="grid">
+            <article class="card">
+                <img src="images/kenyan/ugali.jpg" alt="Ugali">
+                <div class="card-content">
+                    <h3>Ugali & Sukuma</h3>
+                    <p>Traditional Kenyan staple with nutritious kale greens.</p>
+                </div>
+            </article>
+            <article class="card">
+                <img src="images/kenyan/pilau.jpg" alt="Pilau">
+                <div class="card-content">
+                    <h3>Pilau</h3>
+                    <p>Fragrant rice dish with aromatic spices and tender meat.</p>
+                </div>
+            </article>
+        </div>
+    </section>
+
+    <section class="highlights">
+        <h2>Global Budget Recipes</h2>
+        <div class="grid">
+            <article class="card">
+                <img src="images/global/pasta.jpg" alt="Pasta">
+                <div class="card-content">
+                    <h3>Vegetable Pasta</h3>
+                    <p>Quick and healthy pasta with fresh seasonal vegetables.</p>
+                </div>
+            </article>
+            <article class="card">
+                <img src="images/global/omelette.jpg" alt="Omelette">
+                <div class="card-content">
+                    <h3>Cheese Omelette</h3>
+                    <p>Fluffy eggs filled with melted cheese and herbs.</p>
+                </div>
+            </article>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Budget Recipes | Accessible & Responsive | By Brian Koge Ngige</p>
+    </footer>
+
+    <script src="scripts/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipes | Budget Recipes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <h2><a href="index.html" style="text-decoration: none; color: inherit;">Budget Recipes</a></h2>
+            <!-- Hamburger Menu Icon -->
+            <div class="hamburger-menu" aria-label="Menu" role="button" tabindex="0" aria-expanded="false">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <!-- Desktop Navigation -->
+            <ul class="desktop-nav">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="recipes.html" class="active" aria-current="page">Recipes</a></li>
+                <li><a href="aboutus.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+            <!-- Mobile Navigation -->
+            <ul class="mobile-nav" id="mobileNav">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="recipes.html" class="active" aria-current="page">Recipes</a></li>
+                <li><a href="aboutus.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+            <button id="modeToggle" aria-label="Toggle dark mode">🌙</button>
+        </nav>
+    </header>
+
+    <section class="recipe-page">
+        <div class="recipe-header">
+            <h1>All Recipes</h1>
+            <p>Discover our collection of budget-friendly recipes from around the world</p>
+        </div>
+        
+        <div class="recipe-filters">
+            <button class="btn filter-btn active" data-filter="all">All Recipes</button>
+            <button class="btn filter-btn" data-filter="kenyan">Kenyan</button>
+            <button class="btn filter-btn" data-filter="global">Global</button>
+            <button class="btn filter-btn" data-filter="quick">Quick Meals (&le;15 mins)</button>
+        </div>
+
+        <div id="recipeContainer" class="grid">
+            <!-- Recipes will be loaded here from XML -->
+            <p>Loading recipes...</p>
+        </div>
+    </section>
+
+    <!-- Recipe Modal -->
+    <div id="recipeModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div id="modalRecipeContent"></div>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Budget Recipes | Accessible & Responsive | By Brian Koge Ngige</p>
+    </footer>
+
+    <script src="scripts/script.js"></script>
+</body>
+</html>

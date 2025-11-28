@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipes>
+    <!-- Kenyan Recipes -->
+    <recipe id="1" category="kenyan">
+        <name>Ugali &amp; Sukuma</name>
+        <description>Traditional Kenyan staple with nutritious kale greens</description>
+        <image>images/kenyan/ugali.jpg</image>
+        <prepTime>15</prepTime>
+        <cookTime>30</cookTime>
+        <servings>4</servings>
+        <cost currency="KSh">500</cost>
+        <difficulty>Easy</difficulty>
+        <ingredients>
+            <ingredient>2 cups white cornmeal (mahindi)</ingredient>
+            <ingredient>4 cups water</ingredient>
+            <ingredient>1 tsp salt</ingredient>
+            <ingredient>1 bunch sukuma wiki (kale/collard greens)</ingredient>
+            <ingredient>2 tomatoes, chopped</ingredient>
+            <ingredient>1 onion, diced</ingredient>
+            <ingredient>2 cloves garlic, minced</ingredient>
+            <ingredient>2 tbsp cooking oil</ingredient>
+            <ingredient>1 tsp salt or to taste</ingredient>
+            <ingredient>1/2 tsp black pepper</ingredient>
+        </ingredients>
+        <steps>
+            <step>Bring 3 cups of water to boil in a heavy-bottomed pan.</step>
+            <step>In a separate bowl, mix 1 cup of cornmeal with 1 cup of cold water to make a smooth paste.</step>
+            <step>Slowly add the cornmeal paste to the boiling water while stirring continuously with a wooden spoon.</step>
+            <step>Reduce heat to low and continue stirring for about 15 minutes until the mixture thickens.</step>
+            <step>Add salt and continue cooking for another 5 minutes until smooth and firm.</step>
+            <step>Transfer to a serving bowl and shape into a round mound.</step>
+            <step>Wash and chop the sukuma wiki finely.</step>
+            <step>Heat oil in a large pan over medium heat.</step>
+            <step>Add onions and garlic, sauté until fragrant (about 2 minutes).</step>
+            <step>Add tomatoes and cook until they soften and release their juices (about 5 minutes).</step>
+            <step>Add chopped sukuma wiki and stir to combine with the tomato mixture.</step>
+            <step>Add salt and pepper, then cover and cook for 15-20 minutes, stirring occasionally.</step>
+            <step>Serve hot with ugali.</step>
+        </steps>
+        <tips>
+            <tip>Stir ugali constantly to prevent lumps and sticking to the pan.</tip>
+            <tip>For a smoother ugali, use finer cornmeal.</tip>
+            <tip>Sukuma wiki can be substituted with spinach if kale is unavailable.</tip>
+            <tip>Add a pinch of sugar to the sukuma wiki to balance acidity from tomatoes.</tip>
+        </tips>
+    </recipe>
+    
+    <recipe id="2" category="kenyan">
+        <name>Pilau</name>
+        <description>Fragrant rice dish with aromatic spices and tender meat</description>
+        <image>images/kenyan/pilau.jpg</image>
+        <prepTime>20</prepTime>
+        <cookTime>40</cookTime>
+        <servings>6</servings>
+        <cost currency="KSh">1200</cost>
+        <difficulty>Medium</difficulty>
+        <ingredients>
+            <ingredient>2 cups basmati rice</ingredient>
+            <ingredient>500g beef or goat meat, cubed</ingredient>
+            <ingredient>2 large onions, sliced</ingredient>
+            <ingredient>4 tomatoes, chopped</ingredient>
+            <ingredient>1/4 cup cooking oil</ingredient>
+            <ingredient>3 cloves garlic, minced</ingredient>
+            <ingredient>1 tbsp ginger, minced</ingredient>
+            <ingredient>2 tbsp pilau masala</ingredient>
+            <ingredient>1 tsp cumin seeds</ingredient>
+            <ingredient>4 cups beef or chicken broth</ingredient>
+            <ingredient>2 bay leaves</ingredient>
+            <ingredient>1 cinnamon stick</ingredient>
+            <ingredient>4 cardamom pods</ingredient>
+            <ingredient>Salt to taste</ingredient>
+            <ingredient>Fresh cilantro for garnish</ingredient>
+        </ingredients>
+        <steps>
+            <step>Rinse rice in cold water until water runs clear. Drain and set aside.</step>
+            <step>Heat oil in a large, heavy-bottomed pot over medium heat.</step>
+            <step>Add onions and cook until golden brown (8-10 minutes).</step>
+            <step>Add meat and cook until browned on all sides (10 minutes).</step>
+            <step>Add garlic, ginger, and cumin seeds. Cook for 2 minutes.</step>
+            <step>Stir in tomatoes and cook until they break down (5 minutes).</step>
+            <step>Add pilau masala, cinnamon stick, cardamom pods, and bay leaves.</step>
+            <step>Pour in broth and bring to a boil.</step>
+            <step>Season with salt and add rinsed rice. Stir gently.</step>
+            <step>Reduce heat to low, cover, and simmer for 20 minutes.</step>
+            <step>Remove from heat and let stand for 10 minutes without lifting the lid.</step>
+            <step>Fluff rice with a fork and garnish with fresh cilantro.</step>
+        </steps>
+        <tips>
+            <tip>Use a heavy-bottomed pot to prevent burning.</tip>
+            <tip>Don't lift the lid while cooking to ensure fluffy rice.</tip>
+            <tip>For extra flavor, toast whole spices before grinding them.</tip>
+            <tip>Serve with kachumbari and a side of ugali.</tip>
+        </tips>
+    </recipe>
+    
+    <recipe id="3" category="kenyan">
+        <name>Chapati &amp; Kienyeji Fry</name>
+        <description>Flaky flatbread with spicy Kenyan-style fried chicken</description>
+        <image>images/kenyan/chapati-chicken.jpg</image>
+        <prepTime>30</prepTime>
+        <cookTime>45</cookTime>
+        <servings>4</servings>
+        <cost currency="KSh">1200</cost>
+        <difficulty>Medium</difficulty>
+        <ingredients>
+            <ingredient>3 cups all-purpose flour</ingredient>
+            <ingredient>1 tsp salt</ingredient>
+            <ingredient>2 tbsp cooking oil</ingredient>
+            <ingredient>3/4 cup warm water</ingredient>
+            <ingredient>2 tbsp ghee or butter for cooking</ingredient>
+            <ingredient>1 whole kienyeji chicken (1.5kg), cut in pieces</ingredient>
+            <ingredient>3 large tomatoes, chopped</ingredient>
+            <ingredient>2 large onions, sliced</ingredient>
+            <ingredient>4 cloves garlic, minced</ingredient>
+            <ingredient>1 tbsp ginger, minced</ingredient>
+            <ingredient>2 tbsp tomato paste</ingredient>
+            <ingredient>1/2 cup cooking oil</ingredient>
+            <ingredient>2 green chilies, chopped</ingredient>
+            <ingredient>1 tbsp cumin seeds</ingredient>
+            <ingredient>1 tsp turmeric powder</ingredient>
+            <ingredient>1 tsp paprika</ingredient>
+            <ingredient>1 tsp coriander powder</ingredient>
+            <ingredient>1 tsp black pepper</ingredient>
+            <ingredient>2 bay leaves</ingredient>
+            <ingredient>Salt to taste</ingredient>
+            <ingredient>Fresh cilantro for garnish</ingredient>
+            <ingredient>1 lemon, cut in wedges</ingredient>
+        </ingredients>
+        <steps>
+            <step>Mix flour and salt in a large bowl.</step>
+            <step>Add oil and mix until crumbly.</step>
+            <step>Gradually add warm water and knead into a soft dough.</step>
+            <step>Cover and let rest for 20 minutes.</step>
+            <step>Divide dough into 12 equal portions and roll into balls.</step>
+            <step>Roll each ball into a thin circle (6-7 inches diameter).</step>
+            <step>Heat a skillet over medium heat.</step>
+            <step>Cook each chapati for 30 seconds on each side until puffed.</step>
+            <step>Brush with ghee and keep warm.</step>
+            <step>Rinse chicken pieces and pat dry. Season with salt and half the black pepper.</step>
+            <step>Heat 1/4 cup oil in a large pan over medium-high heat.</step>
+            <step>Fry chicken pieces until golden brown on all sides (15-20 minutes).</step>
+            <step>Remove chicken and set aside.</step>
+            <step>In the same pan, add remaining oil if needed.</step>
+            <step>Add cumin seeds and let them splutter.</step>
+            <step>Add onions and cook until golden (8-10 minutes).</step>
+            <step>Add garlic, ginger, and green chilies. Cook for 2 minutes.</step>
+            <step>Stir in tomato paste and cook for 2 minutes.</step>
+            <step>Add tomatoes, turmeric, paprika, coriander powder, and remaining pepper.</step>
+            <step>Cook until tomatoes break down (10 minutes).</step>
+            <step>Add 1/2 cup water, bay leaves, and return chicken to pan.</step>
+            <step>Cover and simmer for 20 minutes until chicken is tender.</step>
+            <step>Adjust seasoning and garnish with cilantro.</step>
+            <step>Serve hot with chapati and lemon wedges.</step>
+        </steps>
+        <tips>
+            <tip>For extra flavor, marinate the chicken in yogurt and spices for 2 hours before cooking.</tip>
+            <tip>If chapati doesn't puff, the dough might be too dry - add a bit more water next time.</tip>
+            <tip>Use a cast iron skillet for the best chapati texture.</tip>
+            <tip>For a milder version, reduce the amount of green chilies.</tip>
+        </tips>
+    </recipe>
+    
+    <recipe id="4" category="kenyan">
+        <name>Ugali &amp; Beef Stew</name>
+        <description>Hearty Kenyan comfort food with tender beef in rich tomato gravy</description>
+        <image>images/kenyan/beef-stew.jpg</image>
+        <prepTime>20</prepTime>
+        <cookTime>90</cookTime>
+        <servings>6</servings>
+        <cost currency="KSh">1500</cost>
+        <difficulty>Medium</difficulty>
+        <ingredients>
+            <ingredient>3 cups white cornmeal (mahindi)</ingredient>
+            <ingredient>6 cups water</ingredient>
+            <ingredient>1 tsp salt</ingredient>
+            <ingredient>1 kg beef stewing meat, cut in chunks</ingredient>
+            <ingredient>3 large tomatoes, chopped</ingredient>
+            <ingredient>2 onions, diced</ingredient>
+            <ingredient>4 cloves garlic, minced</ingredient>
+            <ingredient>1 tbsp ginger, minced</ingredient>
+            <ingredient>2 tbsp tomato paste</ingredient>
+            <ingredient>2 tbsp cooking oil</ingredient>
+            <ingredient>2 potatoes, cut in chunks</ingredient>
+            <ingredient>2 carrots, cut in chunks</ingredient>
+            <ingredient>1 bell pepper, chopped</ingredient>
+            <ingredient>2 cups beef broth</ingredient>
+            <ingredient>1 tsp cumin</ingredient>
+            <ingredient>1 tsp paprika</ingredient>
+            <ingredient>1 tsp curry powder</ingredient>
+            <ingredient>2 bay leaves</ingredient>
+            <ingredient>Salt and pepper to taste</ingredient>
+            <ingredient>Fresh cilantro for garnish</ingredient>
+        </ingredients>
+        <steps>
+            <step>Bring 4 cups of water to boil in a heavy-bottomed pan.</step>
+            <step>In a separate bowl, mix 1 cup of cornmeal with 1 cup of cold water to make a smooth paste.</step>
+            <step>Slowly add the cornmeal paste to the boiling water while stirring continuously with a wooden spoon.</step>
+            <step>Reduce heat to low and continue stirring for about 20 minutes until the mixture thickens.</step>
+            <step>Add salt and continue cooking for another 10 minutes until smooth and firm.</step>
+            <step>Transfer to a serving bowl and shape into a round mound.</step>
+            <step>Heat oil in a large pot over medium-high heat.</step>
+            <step>Brown beef chunks on all sides (about 8-10 minutes).</step>
+            <step>Add onions, garlic, and ginger. Cook until fragrant (3-4 minutes).</step>
+            <step>Stir in tomato paste and cook for 2 minutes.</step>
+            <step>Add tomatoes, cumin, paprika, curry powder, salt, and pepper. Cook until tomatoes break down (10 minutes).</step>
+            <step>Add beef broth, bay leaves, potatoes, and carrots.</step>
+            <step>Bring to a boil, then reduce heat and simmer covered for 1 hour.</step>
+            <step>Add bell pepper in the last 15 minutes of cooking.</step>
+            <step>Remove bay leaves and adjust seasoning.</step>
+            <step>Garnish with fresh cilantro before serving.</step>
+        </steps>
+        <tips>
+            <tip>For tender beef, marinate it in salt and lemon juice for 30 minutes before cooking.</tip>
+            <tip>Add a tablespoon of butter to the ugali at the end for extra richness.</tip>
+            <tip>If you prefer a thicker stew, mix 1 tbsp cornstarch with 2 tbsp water and stir in during the last 5 minutes.</tip>
+            <tip>You can substitute beef with goat meat or chicken for variety.</tip>
+        </tips>
+    </recipe>
+    
+    <recipe id="5" category="kenyan">
+        <name>Ugali &amp; Fish Stew</name>
+        <description>Traditional Kenyan meal with flavorful fish in coconut tomato sauce</description>
+        <image>images/kenyan/fish-stew.jpg</image>
+        <prepTime>20</prepTime>
+        <cookTime>45</cookTime>
+        <servings>4</servings>
+        <cost currency="KSh">1000</cost>
+        <difficulty>Medium</difficulty>
+        <ingredients>
+            <ingredient>2 cups white cornmeal (mahindi)</ingredient>
+            <ingredient>4 cups water</ingredient>
+            <ingredient>1 tsp salt</ingredient>
+            <ingredient>1 kg tilapia or Nile perch, cleaned and cut in pieces</ingredient>
+            <ingredient>3 large tomatoes, chopped</ingredient>
+            <ingredient>1 large onion, diced</ingredient>
+            <ingredient>4 cloves garlic, minced</ingredient>
+            <ingredient>1 tbsp ginger, minced</ingredient>
+            <ingredient>2 tbsp tomato paste</ingredient>
+            <ingredient>1/2 cup coconut milk</ingredient>
+            <ingredient>2 tbsp cooking oil</ingredient>
+            <ingredient>2 green chilies, chopped</ingredient>
+            <ingredient>1 tsp turmeric powder</ingredient>
+            <ingredient>1 tsp paprika</ingredient>
+            <ingredient>1 tsp cumin</ingredient>
+            <ingredient>1 tsp coriander powder</ingredient>
+            <ingredient>1 lemon, juiced</ingredient>
+            <ingredient>Salt and pepper to taste</ingredient>
+            <ingredient>Fresh cilantro for garnish</ingredient>
+        </ingredients>
+        <steps>
+            <step>Bring 3 cups of water to boil in a heavy-bottomed pan.</step>
+            <step>In a separate bowl, mix 1 cup of cornmeal with 1 cup of cold water to make a smooth paste.</step>
+            <step>Slowly add the cornmeal paste to the boiling water while stirring continuously with a wooden spoon.</step>
+            <step>Reduce heat to low and continue stirring for about 15 minutes until the mixture thickens.</step>
+            <step>Add salt and continue cooking for another 5 minutes until smooth and firm.</step>
+            <step>Transfer to a serving bowl and shape into a round mound.</step>
+            <step>Season fish pieces with salt and pepper. Set aside.</step>
+            <step>Heat oil in a large pan over medium heat.</step>
+            <step>Add onions and cook until translucent (5 minutes).</step>
+            <step>Add garlic, ginger, and green chilies. Cook for 2 minutes.</step>
+            <step>Stir in tomato paste and cook for 2 minutes.</step>
+            <step>Add tomatoes, turmeric, paprika, cumin, and coriander powder.</step>
+            <step>Cook until tomatoes break down (10 minutes).</step>
+            <step>Add 1 cup water and bring to a boil.</step>
+            <step>Gently add fish pieces to the sauce.</step>
+            <step>Reduce heat and simmer for 15 minutes.</step>
+            <step>Add coconut milk and lemon juice.</step>
+            <step>Simmer for another 5 minutes until fish is cooked through.</step>
+            <step>Adjust seasoning and garnish with cilantro.</step>
+        </steps>
+        <tips>
+            <tip>Don't stir the fish too much to prevent it from breaking apart.</tip>
+            <tip>If you prefer a thicker stew, mix 1 tbsp cornstarch with 2 tbsp water and stir in during the last 2 minutes.</tip>
+            <tip>Use fresh fish for the best flavor and texture.</tip>
+            <tip>Add vegetables like okra or eggplant to the stew for extra nutrition.</tip>
+        </tips>
+    </recipe>
+    
+    <recipe id="6" category="kenyan">
+        <name>Rice &amp; Beans (Githeri)</name>
+        <description>Classic Kenyan one-pot meal with beans, corn, and vegetables</description>
+        <image>images/kenyan/githeri.jpg</image>
+        <prepTime>20</prepTime>
+        <cookTime>60</cookTime>
+        <servings>6</servings>
+        <cost currency="KSh">600</cost>
+        <difficulty>Easy</difficulty>
+        <ingredients>
+            <ingredient>2 cups dried red kidney beans, soaked overnight</ingredient>
+            <ingredient>1 cup dried maize kernels (corn)</ingredient>
+            <ingredient>2 cups rice</ingredient>
+            <ingredient>2 large onions, diced</ingredient>
+            <ingredient>3 tomatoes, chopped</ingredient>
+            <ingredient>2 tbsp tomato paste</ingredient>
+            <ingredient>1/4 cup cooking oil</ingredient>
+            <ingredient>2 cubes of beef bouillon</ingredient>
+            <ingredient>1 tsp cumin</ingredient>
+            <ingredient>1 tsp paprika</ingredient>
+            <ingredient>2 bay leaves</ingredient>
+            <ingredient>4 cups water</ingredient>
+            <ingredient>Salt and pepper to taste</ingredient>
+            <ingredient>Fresh cilantro for garnish</ingredient>
+        </ingredients>
+        <steps>
+            <step>Drain and rinse the soaked beans.</step>
+            <step>In a large pot, heat oil over medium heat.</step>
+            <step>Add onions and cook until translucent (5 minutes).</step>
+            <step>Stir in tomato paste and cook for 2 minutes.</step>
+            <step>Add tomatoes, cumin, paprika, and bouillon cubes.</step>
+            <step>Cook until tomatoes break down (10 minutes).</step>
+            <step>Add beans, maize, rice, bay leaves, and water.</step>
+            <step>Bring to a boil, then reduce heat and simmer covered for 45 minutes.</step>
+            <step>Stir occasionally to prevent sticking.</step>
+            <step>Remove bay leaves and adjust seasoning.</step>
+            <step>Garnish with fresh cilantro and serve hot.</step>
+        </steps>
+        <tips>
+            <tip>If you don't have time to soak beans, use canned beans and reduce cooking time.</tip>
+            <tip>Add vegetables like carrots, potatoes, or cabbage for extra nutrition.</tip>
+            <tip>For a richer flavor, fry the cooked githeri with a little more oil before serving.</tip>
+            <tip>Serve with a side of avocado or fried eggs for a complete meal.</tip>
+        </tips>
+    </recipe>
+    
+    <recipe id="7" category="kenyan">
+        <name>Mukimo</name>
+        <description>Traditional Kikuyu mashed dish with potatoes, peas, and corn</description>
+        <image>images/kenyan/mukimo.jpg</image>
+        <prepTime>25</prepTime>
+        <cookTime>40</cookTime>
+        <servings>6</servings>
+        <cost currency="KSh">700</cost>
+        <difficulty>Medium</difficulty>
+        <ingredients>
+            <ingredient>1 kg potatoes, peeled and cubed</ingredient>
+            <ingredient>1 cup green peas</ingredient>
+            <ingredient>1 cup maize kernels (corn)</ingredient>
+            <ingredient>2 cups cassava, peeled and cubed</ingredient>
+            <ingredient>1/2 cup butter</ingredient>
+            <ingredient>1/4 cup milk</ingredient>
+            <ingredient>2 tbsp cooking oil</ingredient>
+            <ingredient>2 onions, finely chopped</ingredient>
+            <ingredient>2 tomatoes, chopped</ingredient>
+            <ingredient>2 tbsp tomato paste</ingredient>
+            <ingredient>1 tsp cumin</ingredient>
+            <ingredient>Salt and pepper to taste</ingredient>
+            <ingredient>Fresh cilantro for garnish</ingredient>
+        </ingredients>
+        <steps>
+            <step>Boil potatoes and cassava separately in salted water until tender (20-25 minutes).</step>
+            <step>In a separate pot, boil peas and maize until tender (15 minutes).</step>
+            <step>Drain all vegetables and set aside.</step>
+            <step>Heat oil in a pan over medium heat.</step>
+            <step>Add onions and cook until translucent (5 minutes).</step>
+            <step>Stir in tomato paste and cook for 2 minutes.</step>
+            <step>Add tomatoes, cumin, salt, and pepper. Cook until tomatoes break down (10 minutes).</step>
+            <step>Mash potatoes and cassava together in a large bowl.</step>
+            <step>Add the cooked onion-tomato mixture to the mashed vegetables.</step>
+            <step>Add butter and milk, then mash everything together until well combined.</step>
+            <step>Fold in the cooked peas and maize.</step>
+            <step>Adjust seasoning and garnish with fresh cilantro.</step>
+            <step>Serve hot as a main dish or side.</step>
+        </steps>
+        <tips>
+            <tip>For a smoother texture, use a potato masher or ricer.</tip>
+            <tip>Add more butter and milk for a creamier consistency.</tip>
+            <tip>Mukimo tastes great with grilled meat or fish on the side.</tip>
+            <tip>You can prepare the vegetables a day ahead and reheat before mashing.</tip>
+        </tips>
+    </recipe>
+    
+    <recipe id="8" category="kenyan">
+        <name>Kachumbari</name>
+        <description>Refreshing Kenyan tomato and onion salad with a tangy twist</description>
+        <image>images/kenyan/kachumbari.jpg</image>
+        <prepTime>15</prepTime>
+        <cookTime>0</cookTime>
+        <servings>4</servings>
+        <cost currency="KSh">300</cost>
+        <difficulty>Easy</difficulty>
+        <ingredients>
+            <ingredient>4 large tomatoes, chopped</ingredient>
+            <ingredient>2 large onions, finely chopped</ingredient>
+            <ingredient>2 green chilies, finely chopped</ingredient>
+            <ingredient>1 bunch fresh cilantro, chopped</ingredient>
+            <ingredient>2 lemons, juiced</ingredient>
+            <ingredient>1 tsp salt or to taste</ingredient>
+            <ingredient>1/2 tsp black pepper</ingredient>
+            <ingredient>1/2 tsp sugar (optional)</ingredient>
+        </ingredients>
+        <steps>
+            <step>Wash and chop tomatoes into medium-sized pieces.</step>
+            <step>Fine chop onions and green chilies.</step>
+            <step>In a large mixing bowl, combine tomatoes, onions, and green chilies.</step>
+            <step>Add fresh cilantro and mix well.</step>
+            <step>Squeeze lemon juice over the mixture.</step>
+            <step>Add salt, pepper, and sugar (if using).</step>
+            <step>Toss everything together until well combined.</step>
+            <step>Let it rest for 10 minutes to allow flavors to meld.</step>
+            <step>Adjust seasoning if needed and serve immediately.</step>
+        </steps>
+        <tips>
+            <tip>Kachumbari is best served fresh and cold.</tip>
+            <tip>It pairs perfectly with grilled meat, fish, or ugali.</tip>
+            <tip>For a milder version, remove seeds from chilies before chopping.</tip>
+            <tip>Add diced avocado for extra creaminess and nutrition.</tip>
+            <tip>You can prepare it a few hours ahead but add lemon juice just before serving.</tip>
+        </tips>
+    </recipe>
+    
+    <recipe id="9" category="kenyan">
+        <name>Ugali &amp; Omena Fry</name>
+        <description>Kenyan staple with crispy fried silver fish and vegetables</description>
+        <image>images/kenyan/omena.jpg</image>
+        <prepTime>15</prepTime>
+        <cookTime>30</cookTime>
+        <servings>4</servings>
+        <cost currency="KSh">800</cost>
+        <difficulty>Easy</difficulty>
+        <ingredients>
+            <ingredient>2 cups white cornmeal (mahindi)</ingredient>
+            <ingredient>4 cups water</ingredient>
+            <ingredient>1 tsp salt</ingredient>
+            <ingredient>2 cups dried omena (silver fish), cleaned</ingredient>
+            <ingredient>2 large tomatoes, chopped</ingredient>
+            <ingredient>1 large onion, sliced</ingredient>
+            <ingredient>2 green chilies, chopped</ingredient>
+            <ingredient>3 cloves garlic, minced</ingredient>
+            <ingredient>1 tbsp ginger, minced</ingredient>
+            <ingredient>2 tbsp cooking oil</ingredient>
+            <ingredient>1 tsp turmeric powder</ingredient>
+            <ingredient>1 tsp paprika</ingredient>
+            <ingredient>Salt and pepper to taste</ingredient>
+            <ingredient>Fresh cilantro for garnish</ingredient>
+        </ingredients>
+        <steps>
+            <step>Bring 3 cups of water to boil in a heavy-bottomed pan.</step>
+            <step>In a separate bowl, mix 1 cup of cornmeal with 1 cup of cold water to make a smooth paste.</step>
+            <step>Slowly add the cornmeal paste to the boiling water while stirring continuously with a wooden spoon.</step>
+            <step>Reduce heat to low and continue stirring for about 15 minutes until the mixture thickens.</step>
+            <step>Add salt and continue cooking for another 5 minutes until smooth and firm.</step>
+            <step>Transfer to a serving bowl and shape into a round mound.</step>
+            <step>Rinse omena thoroughly and drain well.</step>
+            <step>Heat oil in a large pan over medium heat.</step>
+            <step>Add onions and cook until translucent (5 minutes).</step>
+            <step>Add garlic, ginger, and green chilies. Cook for 2 minutes.</step>
+            <step>Add tomatoes, turmeric, paprika, salt, and pepper.</step>
+            <step>Cook until tomatoes break down (10 minutes).</step>
+            <step>Add omena and stir gently to coat with the sauce.</step>
+            <step>Cook for 5-7 minutes until omena is crispy and well-coated.</step>
+            <step>Garnish with fresh cilantro and serve hot with ugali.</step>
+        </steps>
+        <tips>
+            <tip>Make sure omena is well-drained to prevent splattering when frying.</tip>
+            <tip>Don't overcook omena as it can become too dry and hard.</tip>
+            <tip>Add a squeeze of lemon juice for extra flavor.</tip>
+            <tip>Serve with kachumbari for a complete meal.</tip>
+        </tips>
+    </recipe>
+    
+    <recipe id="10" category="kenyan">
+        <name>Ugali &amp; Cabbage Stew</name>
+        <description>Simple and nutritious Kenyan meal with cabbage in tomato sauce</description>
+        <image>images/kenyan/cabbage-stew.jpg</image>
+        <prepTime>15</prepTime>
+        <cookTime>30</cookTime>
+        <servings>4</servings>
+        <cost currency="KSh">500</cost>
+        <difficulty>Easy</difficulty>
+        <ingredients>
+            <ingredient>2 cups white cornmeal (mahindi)</ingredient>
+            <ingredient>4 cups water</ingredient>
+            <ingredient>1 tsp salt</ingredient>
+            <ingredient>1 medium cabbage, shredded</ingredient>
+            <ingredient>2 large tomatoes, chopped</ingredient>
+            <ingredient>1 large onion, diced</ingredient>
+            <ingredient>3 cloves garlic, minced</ingredient>
+            <ingredient>1 tbsp ginger, minced</ingredient>
+            <ingredient>2 tbsp tomato paste</ingredient>
+            <ingredient>2 tbsp cooking oil</ingredient>
+            <ingredient>1 green chili, chopped</ingredient>
+            <ingredient>1 tsp turmeric powder</ingredient>
+            <ingredient>1 tsp paprika</ingredient>
+            <ingredient>1 tsp cumin</ingredient>
+            <ingredient>Salt and pepper to taste</ingredient>
+            <ingredient>Fresh cilantro for garnish</ingredient>
+        </ingredients>
+        <steps>
+            <step>Bring 3 cups of water to boil in a heavy-bottomed pan.</step>
+            <step>In a separate bowl, mix 1 cup of cornmeal with 1 cup of cold water to make a smooth paste.</step>
+            <step>Slowly add the cornmeal paste to the boiling water while stirring continuously with a wooden spoon.</step>
+            <step>Reduce heat to low and continue stirring for about 15 minutes until the mixture thickens.</step>
+            <step>Add salt and continue cooking for another 5 minutes until smooth and firm.</step>
+            <step>Transfer to a serving bowl and shape into a round mound.</step>
+            <step>Heat oil in a large pan over medium heat.</step>
+            <step>Add onions and cook until translucent (5 minutes).</step>
+            <step>Add garlic, ginger, and green chili. Cook for 2 minutes.</step>
+            <step>Stir in tomato paste and cook for 2 minutes.</step>
+            <step>Add tomatoes, turmeric, paprika, cumin, salt, and pepper.</step>
+            <step>Cook until tomatoes break down (10 minutes).</step>
+            <step>Add shredded cabbage and 1/2 cup water.</step>
+            <step>Cover and cook for 15 minutes until cabbage is tender.</step>
+            <step>Adjust seasoning and garnish with fresh cilantro.</step>
+        </steps>
+        <tips>
+            <tip>Add potatoes or carrots to the stew for extra nutrition.</tip>
+            <tip>For a richer stew, add a splash of coconut milk at the end.</tip>
+            <tip>If you prefer crispier cabbage, reduce the cooking time slightly.</tip>
+            <tip>Serve with a side of kachumbari for extra freshness.</tip>
+        </tips>
+    </recipe>
+    
+    <recipe id="11" category="kenyan">
+        <name>Ugali &amp; Spinach Stew</name>
+        <description>Healthy Kenyan meal with leafy greens in flavorful sauce</description>
+        <image>images/kenyan/spinach-stew.jpg</image>
+        <prepTime>15</prepTime>
+        <cookTime>25</cookTime>
+        <servings>4</servings>
+        <cost currency="KSh">600</cost>
+        <difficulty>Easy</difficulty>
+        <ingredients>
+            <ingredient>2 cups white cornmeal (mahindi)</ingredient>
+            <ingredient>4 cups water</ingredient>
+            <ingredient>1 tsp salt</ingredient>
+            <ingredient>1 bunch spinach, washed and chopped</ingredient>
+            <ingredient>2 large tomatoes, chopped</ingredient>
+            <ingredient>1 large onion, diced</ingredient>
+            <ingredient>3 cloves garlic, minced</ingredient>
+            <ingredient>1 tbsp ginger, minced</ingredient>
+            <ingredient>2 tbsp tomato paste</ingredient>
+            <ingredient>2 tbsp cooking oil</ingredient>
+            <ingredient>1 green chili, chopped</ingredient>
+            <ingredient>1 tsp turmeric powder</ingredient>
+            <ingredient>1 tsp paprika</ingredient>
+            <ingredient>1/2 cup coconut milk</ingredient>
+            <ingredient>Salt and pepper to taste</ingredient>
+            <ingredient>Fresh cilantro for garnish</ingredient>
+        </ingredients>
+        <steps>
+            <step>Bring 3 cups of water to boil in a heavy-bottomed pan.</step>
+            <step>In a separate bowl, mix 1 cup of cornmeal with 1 cup of cold water to make a smooth paste.</step>
+            <step>Slowly add the cornmeal paste to the boiling water while stirring continuously with a wooden spoon.</step>
+            <step>Reduce heat to low and continue stirring for about 15 minutes until the mixture thickens.</step>
+            <step>Add salt and continue cooking for another 5 minutes until smooth and firm.</step>
+            <step>Transfer to a serving bowl and shape into a round mound.</step>
+            <step>Heat oil in a large pan over medium heat.</step>
+            <step>Add onions and cook until translucent (5 minutes).</step>
+            <step>Add garlic, ginger, and green chili. Cook for 2 minutes.</step>
+            <step>Stir in tomato paste and cook for 2 minutes.</step>
+            <step>Add tomatoes, turmeric, paprika, salt, and pepper.</step>
+            <step>Cook until tomatoes break down (10 minutes).</step>
+            <step>Add chopped spinach in batches and stir until wilted.</step>
+            <step>Add coconut milk and simmer for 5 minutes.</step>
+            <step>Adjust seasoning and garnish with fresh cilantro.</step>
+        </steps>
+        <tips>
+            <tip>Use fresh spinach for the best flavor and nutrition.</tip>
+            <tip>If using frozen spinach, thaw and drain excess water before adding.</tip>
+            <tip>Add a squeeze of lemon juice for extra brightness.</tip>
+            <tip>Serve with a side of boiled eggs for extra protein.</tip>
+        </tips>
+    </recipe>
+    
+    <recipe id="12" category="kenyan">
+        <name>Ugali &amp; Fried Eggs</name>
+        <description>Simple and satisfying Kenyan breakfast or light meal</description>
+        <image>images/kenyan/ugali-eggs.jpg</image>
+        <prepTime>10</prepTime>
+        <cookTime>20</cookTime>
+        <servings>2</servings>
+        <cost currency="KSh">200</cost>
+        <difficulty>Easy</difficulty>
+        <ingredients>
+            <ingredient>1 cup white cornmeal (mahindi)</ingredient>
+            <ingredient>2 cups water</ingredient>
+            <ingredient>1/2 tsp salt</ingredient>
+            <ingredient>4 eggs</ingredient>
+            <ingredient>2 tbsp cooking oil</ingredient>
+            <ingredient>1 small onion, sliced</ingredient>
+            <ingredient>1 green chili, chopped</ingredient>
+            <ingredient>Salt and pepper to taste</ingredient>
+            <ingredient>Fresh cilantro for garnish</ingredient>
+        </ingredients>
+        <steps>
+            <step>Bring 1.5 cups of water to boil in a heavy-bottomed pan.</step>
+            <step>In a separate bowl, mix 1/2 cup of cornmeal with 1/2 cup of cold water to make a smooth paste.</step>
+            <step>Slowly add the cornmeal paste to the boiling water while stirring continuously with a wooden spoon.</step>
+            <step>Reduce heat to low and continue stirring for about 10 minutes until the mixture thickens.</step>
+            <step>Add salt and continue cooking for another 5 minutes until smooth and firm.</step>
+            <step>Transfer to a serving bowl and shape into a round mound.</step>
+            <step>Heat oil in a non-stick pan over medium heat.</step>
+            <step>Add onions and cook until translucent (3 minutes).</step>
+            <step>Add green chili and cook for 1 minute.</step>
+            <step>Crack eggs into the pan, keeping yolks intact.</step>
+            <step>Sprinkle with salt and pepper.</step>
+            <step>Cook until whites are set but yolks are still runny (3-4 minutes).</step>
+            <step>Garnish with fresh cilantro.</step>
+        </steps>
+        <tips>
+            <tip>For sunny-side up eggs, cover the pan for the last minute to set the whites completely.</tip>
+            <tip>Add a slice of tomato to the pan when frying eggs for extra flavor.</tip>
+            <tip>Serve with a side of kachumbari for a refreshing contrast.</tip>
+            <tip>You can scramble the eggs instead of frying them whole for a different texture.</tip>
+        </tips>
+    </recipe>
+    
+    <!-- Global Recipes -->
+    <recipe id="13" category="global">
+        <name>Cheese Omelette</name>
+        <description>Fluffy eggs filled with melted cheese and herbs</description>
+        <image>images/global/omelette.jpg</image>
+        <prepTime>5</prepTime>
+        <cookTime>10</cookTime>
+        <servings>2</servings>
+        <cost currency="KSh">400</cost>
+        <difficulty>Easy</difficulty>
+        <ingredients>
+            <ingredient>4 large eggs</ingredient>
+            <ingredient>1/4 cup milk</ingredient>
+            <ingredient>1/2 cup grated cheese (cheddar or Swiss)</ingredient>
+            <ingredient>2 tbsp butter</ingredient>
+            <ingredient>2 tbsp chopped fresh herbs (chives, parsley, or cilantro)</ingredient>
+            <ingredient>Salt and pepper to taste</ingredient>
+        </ingredients>
+        <steps>
+            <step>In a bowl, whisk together eggs, milk, salt, and pepper until well combined.</step>
+            <step>Heat a non-stick skillet over medium-low heat.</step>
+            <step>Add 1 tbsp butter and let it melt, swirling to coat the pan.</step>
+            <step>Pour in the egg mixture and let it cook undisturbed for 1-2 minutes.</step>
+            <step>Using a spatula, gently push the cooked edges toward the center, allowing uncooked egg to flow to the edges.</step>
+            <step>When eggs are almost set but still slightly runny on top, sprinkle cheese and herbs on one half.</step>
+            <step>Carefully fold the other half over the cheese filling.</step>
+            <step>Cook for another 30 seconds to 1 minute until cheese begins to melt.</step>
+            <step>Slide omelette onto a plate and serve immediately.</step>
+        </steps>
+        <tips>
+            <tip>Keep heat at medium-low to prevent browning and ensure even cooking.</tip>
+            <tip>Don't stir the eggs too much to maintain a fluffy texture.</tip>
+            <tip>Use freshly grated cheese for better melting.</tip>
+            <tip>Add vegetables like diced tomatoes, mushrooms, or spinach for extra nutrition.</tip>
+        </tips>
+    </recipe>
+    
+    <recipe id="14" category="global">
+        <name>Spaghetti Bolognese</name>
+        <description>Classic Italian pasta with rich meat sauce</description>
+        <image>images/global/spaghetti-bolognese.jpg</image>
+        <prepTime>20</prepTime>
+        <cookTime>45</cookTime>
+        <servings>4</servings>
+        <cost currency="KSh">800</cost>
+        <difficulty>Medium</difficulty>
+        <ingredients>
+            <ingredient>400g spaghetti</ingredient>
+            <ingredient>500g ground beef</ingredient>
+            <ingredient>1 large onion, diced</ingredient>
+            <ingredient>2 carrots, finely chopped</ingredient>
+            <ingredient>2 celery stalks, finely chopped</ingredient>
+            <ingredient>3 cloves garlic, minced</ingredient>
+            <ingredient>2 tbsp olive oil</ingredient>
+            <ingredient>2 tbsp tomato paste</ingredient>
+            <ingredient>400g canned crushed tomatoes</ingredient>
+            <ingredient>100ml red wine (optional)</ingredient>
+            <ingredient>1 cup beef or vegetable broth</ingredient>
+            <ingredient>1 tsp dried oregano</ingredient>
+            <ingredient>1 tsp dried basil</ingredient>
+            <ingredient>1 bay leaf</ingredient>
+            <ingredient>Salt and pepper to taste</ingredient>
+            <ingredient>Fresh basil for garnish</ingredient>
+            <ingredient>Parmesan cheese for serving</ingredient>
+        </ingredients>
+        <steps>
+            <step>Heat olive oil in a large pan over medium heat.</step>
+            <step>Add onions, carrots, and celery. Cook until softened (8-10 minutes).</step>
+            <step>Add garlic and cook for another minute.</step>
+            <step>Add ground beef and cook until browned (8-10 minutes).</step>
+            <step>Stir in tomato paste and cook for 2 minutes.</step>
+            <step>Add crushed tomatoes, wine (if using), broth, oregano, basil, and bay leaf.</step>
+            <step>Bring to a boil, then reduce heat and simmer for 30 minutes.</step>
+            <step>Season with salt and pepper.</step>
+            <step>Meanwhile, cook spaghetti according to package instructions.</step>
+            <step>Drain pasta and toss with bolognese sauce.</step>
+            <step>Remove bay leaf and garnish with fresh basil and parmesan cheese.</step>
+        </steps>
+        <tips>
+            <tip>For a richer flavor, use a combination of ground beef and pork.</tip>
+            <tip>If you don't have wine, substitute with additional broth.</tip>
+            <tip>Let the sauce simmer longer for a more concentrated flavor.</tip>
+            <tip>Add a pinch of sugar if the sauce is too acidic.</tip>
+        </tips>
+    </recipe>
+    
+    <recipe id="15" category="global">
+        <name>Vegetable Fried Rice</name>
+        <description>Flavorful Asian-inspired rice dish with mixed vegetables</description>
+        <image>images/global/fried-rice.jpg</image>
+        <prepTime>20</prepTime>
+        <cookTime>15</cookTime>
+        <servings>4</servings>
+        <cost currency="KSh">600</cost>
+        <difficulty>Easy</difficulty>
+        <ingredients>
+            <ingredient>3 cups cooked rice (preferably day-old)</ingredient>
+            <ingredient>2 eggs, beaten</ingredient>
+            <ingredient>1 cup mixed vegetables (carrots, peas, corn, bell peppers)</ingredient>
+            <ingredient>3 green onions, chopped</ingredient>
+            <ingredient>2 cloves garlic, minced</ingredient>
+            <ingredient>1 tbsp ginger, minced</ingredient>
+            <ingredient>3 tbsp soy sauce</ingredient>
+            <ingredient>1 tbsp oyster sauce</ingredient>
+            <ingredient>1 tsp sesame oil</ingredient>
+            <ingredient>2 tbsp vegetable oil</ingredient>
+            <ingredient>1/2 tsp white pepper</ingredient>
+            <ingredient>Salt to taste</ingredient>
+        </ingredients>
+        <steps>
+            <step>Heat 1 tbsp vegetable oil in a large wok or skillet over medium-high heat.</step>
+            <step>Pour in beaten eggs and scramble until just set. Remove and set aside.</step>
+            <step>Heat remaining oil in the wok.</step>
+            <step>Add garlic and ginger, cook for 30 seconds until fragrant.</step>
+            <step>Add mixed vegetables and stir-fry for 3-4 minutes until tender-crisp.</step>
+            <step>Add cooked rice and break up any clumps.</step>
+            <step>Stir in soy sauce, oyster sauce, sesame oil, salt, and white pepper.</step>
+            <step>Add scrambled eggs and green onions.</step>
+            <step>Stir-fry for another 2-3 minutes until everything is well combined and heated through.</step>
+            <step>Serve hot.</step>
+        </steps>
+        <tips>
+            <tip>Use day-old rice for best results as it's less sticky.</tip>
+            <tip>Prep all ingredients before starting as stir-frying happens quickly.</tip>
+            <tip>Add protein like shrimp or chicken for a heartier meal.</tip>
+            <tip>Adjust sauces to your taste preference.</tip>
+        </tips>
+    </recipe>
+    
+    <recipe id="16" category="global">
+        <name>Chicken Curry</name>
+        <description>Flavorful Indian-inspired chicken curry with aromatic spices</description>
+        <image>images/global/chicken-curry.jpg</image>
+        <prepTime>20</prepTime>
+        <cookTime>40</cookTime>
+        <servings>4</servings>
+        <cost currency="KSh">1000</cost>
+        <difficulty>Medium</difficulty>
+        <ingredients>
+            <ingredient>1 kg chicken, cut in pieces</ingredient>
+            <ingredient>2 large onions, thinly sliced</ingredient>
+            <ingredient>4 tomatoes, chopped</ingredient>
+            <ingredient>1/2 cup plain yogurt</ingredient>
+            <ingredient>3 cloves garlic, minced</ingredient>
+            <ingredient>1 tbsp ginger, minced</ingredient>
+            <ingredient>1/4 cup cooking oil</ingredient>
+            <ingredient>2 tbsp curry powder</ingredient>
+            <ingredient>1 tsp turmeric powder</ingredient>
+            <ingredient>1 tsp cumin powder</ingredient>
+            <ingredient>1 tsp coriander powder</ingredient>
+            <ingredient>1 tsp red chili powder</ingredient>
+            <ingredient>1 tsp garam masala</ingredient>
+            <ingredient>2 bay leaves</ingredient>
+            <ingredient>1 cup water</ingredient>
+            <ingredient>Salt to taste</ingredient>
+            <ingredient>Fresh cilantro for garnish</ingredient>
+        </ingredients>
+        <steps>
+            <step>Heat oil in a large pan over medium heat.</step>
+            <step>Add onions and cook until golden brown (10-12 minutes).</step>
+            <step>Add garlic and ginger, cook for 2 minutes.</step>
+            <step>Add curry powder, turmeric, cumin, coriander, and chili powder. Cook for 1 minute.</step>
+            <step>Add chicken pieces and cook until lightly browned (8-10 minutes).</step>
+            <step>Add tomatoes and cook until they break down (5 minutes).</step>
+            <step>Stir in yogurt and water.</step>
+            <step>Add bay leaves, salt, and garam masala.</step>
+            <step>Bring to a boil, then reduce heat and simmer covered for 20 minutes.</step>
+            <step>Remove lid and cook for another 5 minutes until sauce thickens.</step>
+            <step>Garnish with fresh cilantro and serve with rice or bread.</step>
+        </steps>
+        <tips>
+            <tip>Marinate chicken in yogurt and spices for 30 minutes for extra flavor.</tip>
+            <tip>Adjust spice level by increasing or decreasing chili powder.</tip>
+            <tip>Add potatoes or vegetables for a heartier curry.</tip>
+            <tip>Serve with naan bread or steamed basmati rice.</tip>
+        </tips>
+    </recipe>
+    
+    <recipe id="17" category="global">
+        <name>Vegetable Stir Fry</name>
+        <description>Quick and healthy mix of colorful vegetables in savory sauce</description>
+        <image>images/global/vegetable-stirfry.jpg</image>
+        <prepTime>15</prepTime>
+        <cookTime>10</cookTime>
+        <servings>3</servings>
+        <cost currency="KSh">500</cost>
+        <difficulty>Easy</difficulty>
+        <ingredients>
+            <ingredient>2 tbsp vegetable oil</ingredient>
+            <ingredient>1 bell pepper, sliced</ingredient>
+            <ingredient>1 carrot, julienned</ingredient>
+            <ingredient>1 cup broccoli florets</ingredient>
+            <ingredient>1 cup snap peas</ingredient>
+            <ingredient>1 zucchini, sliced</ingredient>
+            <ingredient>3 cloves garlic, minced</ingredient>
+            <ingredient>1 tbsp ginger, minced</ingredient>
+            <ingredient>3 tbsp soy sauce</ingredient>
+            <ingredient>1 tbsp oyster sauce</ingredient>
+            <ingredient>1 tsp sesame oil</ingredient>
+            <ingredient>1 tsp cornstarch mixed with 2 tbsp water</ingredient>
+            <ingredient>1/2 tsp red pepper flakes (optional)</ingredient>
+            <ingredient>Sesame seeds for garnish</ingredient>
+        </ingredients>
+        <steps>
+            <step>Heat vegetable oil in a large wok or skillet over high heat.</step>
+            <step>Add harder vegetables (carrots, broccoli) and stir-fry for 2 minutes.</step>
+            <step>Add softer vegetables (bell pepper, zucchini, snap peas) and stir-fry for 2 minutes.</step>
+            <step>Push vegetables to one side and add garlic and ginger to the empty side.</step>
+            <step>Stir-fry garlic and ginger for 30 seconds until fragrant.</step>
+            <step>Mix everything together.</step>
+            <step>Add soy sauce, oyster sauce, sesame oil, and red pepper flakes.</step>
+            <step>Stir in cornstarch mixture and cook for 1-2 minutes until sauce thickens.</step>
+            <step>Garnish with sesame seeds and serve hot with rice or noodles.</step>
+        </steps>
+        <tips>
+            <tip>Cut vegetables uniformly for even cooking.</tip>
+            <tip>Prep all ingredients before starting as stir-frying happens quickly.</tip>
+            <tip>Add protein like tofu or chicken for a heartier meal.</tip>
+            <tip>Adjust sauces to your taste preference.</tip>
+        </tips>
+    </recipe>
+    
+    <recipe id="18" category="global">
+        <name>Potato Curry</name>
+        <description>Hearty vegetarian curry with tender potatoes and aromatic spices</description>
+        <image>images/global/potato-curry.jpg</image>
+        <prepTime>15</prepTime>
+        <cookTime>30</cookTime>
+        <servings>4</servings>
+        <cost currency="KSh">400</cost>
+        <difficulty>Easy</difficulty>
+        <ingredients>
+            <ingredient>1 kg potatoes, peeled and cubed</ingredient>
+            <ingredient>2 large onions, thinly sliced</ingredient>
+            <ingredient>3 tomatoes, chopped</ingredient>
+            <ingredient>1/4 cup cooking oil</ingredient>
+            <ingredient>3 cloves garlic, minced</ingredient>
+            <ingredient>1 tbsp ginger, minced</ingredient>
+            <ingredient>1 tsp turmeric powder</ingredient>
+            <ingredient>1 tsp cumin powder</ingredient>
+            <ingredient>1 tsp coriander powder</ingredient>
+            <ingredient>1 tsp red chili powder</ingredient>
+            <ingredient>1 tsp garam masala</ingredient>
+            <ingredient>1/2 tsp turmeric powder</ingredient>
+            <ingredient>2 bay leaves</ingredient>
+            <ingredient>1 cup water</ingredient>
+            <ingredient>Salt to taste</ingredient>
+            <ingredient>Fresh cilantro for garnish</ingredient>
+        </ingredients>
+        <steps>
+            <step>Heat oil in a large pan over medium heat.</step>
+            <step>Add onions and cook until golden brown (8-10 minutes).</step>
+            <step>Add garlic and ginger, cook for 2 minutes.</step>
+            <step>Add cumin, coriander, chili powder, and 1/2 tsp turmeric. Cook for 1 minute.</step>
+            <step>Add tomatoes and cook until they break down (5 minutes).</step>
+            <step>Add potatoes, water, bay leaves, and salt.</step>
+            <step>Bring to a boil, then reduce heat and simmer covered for 20 minutes.</step>
+            <step>Add garam masala and remaining turmeric.</step>
+            <step>Cook for another 5 minutes until potatoes are tender.</step>
+            <step>Garnish with fresh cilantro and serve with rice or bread.</step>
+        </steps>
+        <tips>
+            <tip>Parboil potatoes for 5 minutes to reduce cooking time.</tip>
+            <tip>Add vegetables like cauliflower or peas for extra nutrition.</tip>
+            <tip>Adjust spice level by increasing or decreasing chili powder.</tip>
+            <tip>Serve with naan bread or steamed basmati rice.</tip>
+        </tips>
+    </recipe>
+    
+    <recipe id="19" category="global">
+        <name>Lentil Soup</name>
+        <description>Nutritious and comforting Middle Eastern-inspired lentil soup</description>
+        <image>images/global/lentil-soup.jpg</image>
+        <prepTime>15</prepTime>
+        <cookTime>40</cookTime>
+        <servings>6</servings>
+        <cost currency="KSh">600</cost>
+        <difficulty>Easy</difficulty>
+        <ingredients>
+            <ingredient>2 cups red lentils, rinsed</ingredient>
+            <ingredient>1 large onion, diced</ingredient>
+            <ingredient>3 carrots, diced</ingredient>
+            <ingredient>3 celery stalks, diced</ingredient>
+            <ingredient>3 cloves garlic, minced</ingredient>
+            <ingredient>1 tbsp ginger, minced</ingredient>
+            <ingredient>1/4 cup olive oil</ingredient>
+            <ingredient>1 tsp cumin</ingredient>
+            <ingredient>1 tsp coriander</ingredient>
+            <ingredient>1/2 tsp turmeric</ingredient>
+            <ingredient>1/2 tsp cinnamon</ingredient>
+            <ingredient>6 cups vegetable or chicken broth</ingredient>
+            <ingredient>1 can (400g) diced tomatoes</ingredient>
+            <ingredient>2 tbsp lemon juice</ingredient>
+            <ingredient>Salt and pepper to taste</ingredient>
+            <ingredient>Fresh parsley for garnish</ingredient>
+        </ingredients>
+        <steps>
+            <step>Heat olive oil in a large pot over medium heat.</step>
+            <step>Add onions, carrots, and celery. Cook until softened (8-10 minutes).</step>
+            <step>Add garlic and ginger, cook for 1 minute.</step>
+            <step>Add cumin, coriander, turmeric, and cinnamon. Cook for 1 minute.</step>
+            <step>Add lentils, broth, and diced tomatoes.</step>
+            <step>Bring to a boil, then reduce heat and simmer for 25-30 minutes.</step>
+            <step>Season with salt and pepper.</step>
+            <step>Stir in lemon juice and garnish with fresh parsley.</step>
+            <step>Serve hot with crusty bread.</step>
+        </steps>
+        <tips>
+            <tip>Rinse lentils thoroughly to remove any debris.</tip>
+            <tip>For a creamier texture, blend half the soup with an immersion blender.</tip>
+            <tip>Add spinach or kale in the last 5 minutes of cooking for extra nutrition.</tip>
+            <tip>Adjust spices to your taste preference.</tip>
+        </tips>
+    </recipe>
+    
+    <recipe id="20" category="global">
+        <name>Chicken Sandwich</name>
+        <description>Delicious and filling sandwich with seasoned grilled chicken</description>
+        <image>images/global/chicken-sandwich.jpg</image>
+        <prepTime>20</prepTime>
+        <cookTime>15</cookTime>
+        <servings>4</servings>
+        <cost currency="KSh">800</cost>
+        <difficulty>Easy</difficulty>
+        <ingredients>
+            <ingredient>500g chicken breast, sliced</ingredient>
+            <ingredient>2 tbsp olive oil</ingredient>
+            <ingredient>1 tsp paprika</ingredient>
+            <ingredient>1 tsp garlic powder</ingredient>
+            <ingredient>1 tsp onion powder</ingredient>
+            <ingredient>1/2 tsp black pepper</ingredient>
+            <ingredient>1 tsp salt</ingredient>
+            <ingredient>4 burger buns</ingredient>
+            <ingredient>1 tomato, sliced</ingredient>
+            <ingredient>1 cucumber, sliced</ingredient>
+            <ingredient>1 onion, sliced</ingredient>
+            <ingredient>4 lettuce leaves</ingredient>
+            <ingredient>1/4 cup mayonnaise</ingredient>
+            <ingredient>2 tbsp mustard</ingredient>
+        </ingredients>
+        <steps>
+            <step>In a bowl, mix paprika, garlic powder, onion powder, salt, and pepper.</step>
+            <step>Rub the spice mixture on both sides of chicken slices.</step>
+            <step>Heat olive oil in a skillet over medium-high heat.</step>
+            <step>Cook chicken for 5-7 minutes on each side until golden and cooked through.</step>
+            <step>Remove from heat and let rest for 5 minutes before slicing.</step>
+            <step>Mix mayonnaise and mustard in a small bowl.</step>
+            <step>Slice burger buns in half and toast lightly.</step>
+            <step>Spread mayo-mustard mixture on bottom half of each bun.</step>
+            <step>Layer lettuce, tomato, cucumber, and onion slices.</step>
+            <step>Add sliced chicken on top.</step>
+            <step>Top with the other half of the bun and serve immediately.</step>
+        </steps>
+        <tips>
+            <tip>Don't overcook the chicken to keep it juicy.</tip>
+            <tip>Add cheese like cheddar or mozzarella for extra flavor.</tip>
+            <tip>Use ciabatta or sourdough bread for a gourmet touch.</tip>
+            <tip>Add pickles or jalapeños for extra crunch and flavor.</tip>
+        </tips>
+    </recipe>
+    
+    <recipe id="21" category="global">
+        <name>Bean Tacos</name>
+        <description>Flavorful Mexican-inspired tacos with seasoned beans and fresh toppings</description>
+        <image>images/global/bean-tacos.jpg</image>
+        <prepTime>20</prepTime>
+        <cookTime>20</cookTime>
+        <servings>4</servings>
+        <cost currency="KSh">600</cost>
+        <difficulty>Easy</difficulty>
+        <ingredients>
+            <ingredient>2 cans (400g each) black beans, drained and rinsed</ingredient>
+            <ingredient>1 onion, diced</ingredient>
+            <ingredient>3 cloves garlic, minced</ingredient>
+            <ingredient>1 tbsp chili powder</ingredient>
+            <ingredient>1 tsp cumin</ingredient>
+            <ingredient>1/2 tsp paprika</ingredient>
+            <ingredient>1/2 tsp oregano</ingredient>
+            <ingredient>1/4 tsp cayenne pepper</ingredient>
+            <ingredient>2 tbsp olive oil</ingredient>
+            <ingredient>Salt and pepper to taste</ingredient>
+            <ingredient>12 small tortillas</ingredient>
+            <ingredient>1 cup shredded lettuce</ingredient>
+            <ingredient>1 tomato, diced</ingredient>
+            <ingredient>1/2 onion, diced</ingredient>
+            <ingredient>1/2 cup sour cream</ingredient>
+            <ingredient>1/2 cup salsa</ingredient>
+            <ingredient>1/2 cup shredded cheese</ingredient>
+            <ingredient>1 avocado, sliced</ingredient>
+            <ingredient>Fresh cilantro for garnish</ingredient>
+            <ingredient>Lime wedges for serving</ingredient>
+        </ingredients>
+        <steps>
+            <step>Heat olive oil in a large skillet over medium heat.</step>
+            <step>Add onions and cook until translucent (5 minutes).</step>
+            <step>Add garlic and cook for 1 minute.</step>
+            <step>Add chili powder, cumin, paprika, oregano, and cayenne. Cook for 1 minute.</step>
+            <step>Add black beans and 1/2 cup water.</step>
+            <step>Mash beans slightly with a potato masher or fork.</step>
+            <step>Season with salt and pepper. Cook for 10 minutes.</step>
+            <step>Warm tortillas in a dry skillet or microwave.</step>
+            <step>Spoon bean filling into each tortilla.</step>
+            <step>Top with lettuce, tomato, onion, sour cream, salsa, and cheese.</step>
+            <step>Add avocado slices and fresh cilantro.</step>
+            <step>Serve with lime wedges on the side.</step>
+        </steps>
+        <tips>
+            <tip>Make your own taco seasoning by combining spices for fresher flavor.</tip>
+            <tip>Add protein like grilled chicken or shrimp for variety.</tip>
+            <tip>Use corn tortillas for a gluten-free option.</tip>
+            <tip>Prepare toppings in separate bowls for a DIY taco bar.</tip>
+        </tips>
+    </recipe>
+    
+    <recipe id="22" category="global">
+        <name>Vegetable Pasta</name>
+        <description>Quick and healthy pasta with seasonal vegetables and light sauce</description>
+        <image>images/global/vegetable-pasta.jpg</image>
+        <prepTime>15</prepTime>
+        <cookTime>20</cookTime>
+        <servings>4</servings>
+        <cost currency="KSh">700</cost>
+        <difficulty>Easy</difficulty>
+        <ingredients>
+            <ingredient>400g pasta (penne, fusilli, or spaghetti)</ingredient>
+            <ingredient>2 tbsp olive oil</ingredient>
+            <ingredient>3 cloves garlic, minced</ingredient>
+            <ingredient>1 small onion, diced</ingredient>
+            <ingredient>1 zucchini, diced</ingredient>
+            <ingredient>1 bell pepper, diced</ingredient>
+            <ingredient>1 cup cherry tomatoes, halved</ingredient>
+            <ingredient>1 cup mushrooms, sliced</ingredient>
+            <ingredient>2 cups spinach</ingredient>
+            <ingredient>1/2 cup heavy cream</ingredient>
+            <ingredient>1/2 cup grated parmesan cheese</ingredient>
+            <ingredient>1 tsp dried oregano</ingredient>
+            <ingredient>1 tsp dried basil</ingredient>
+            <ingredient>Salt and pepper to taste</ingredient>
+            <ingredient>Fresh basil for garnish</ingredient>
+        </ingredients>
+        <steps>
+            <step>Cook pasta according to package instructions. Drain and set aside.</step>
+            <step>Heat olive oil in a large skillet over medium heat.</step>
+            <step>Add onions and garlic, cook until fragrant (2-3 minutes).</step>
+            <step>Add zucchini, bell pepper, and mushrooms. Cook for 5 minutes.</step>
+            <step>Add cherry tomatoes and cook for another 2 minutes.</step>
+            <step>Stir in spinach and cook until wilted (1-2 minutes).</step>
+            <step>Add cream, parmesan, oregano, basil, salt, and pepper.</step>
+            <step>Simmer for 3-4 minutes until sauce thickens slightly.</step>
+            <step>Add cooked pasta and toss to coat evenly.</step>
+            <step>Garnish with fresh basil and serve hot.</step>
+        </steps>
+        <tips>
+            <tip>Reserve some pasta water to adjust sauce consistency.</tip>
+            <tip>Use whatever vegetables are in season for variety.</tip>
+            <tip>Add protein like grilled chicken or shrimp for a heartier meal.</tip>
+            <tip>Substitute cream with coconut milk for a dairy-free version.</tip>
+        </tips>
+    </recipe>
+</recipes>

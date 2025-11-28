@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us | Budget Recipes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <h2><a href="index.html" style="text-decoration: none; color: inherit;">Budget Recipes</a></h2>
+            <!-- Hamburger Menu Icon -->
+            <div class="hamburger-menu" aria-label="Menu" role="button" tabindex="0" aria-expanded="false">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <!-- Desktop Navigation -->
+            <ul class="desktop-nav">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="recipes.html">Recipes</a></li>
+                <li><a href="aboutus.html">About</a></li>
+                <li><a href="contact.html" class="active" aria-current="page">Contact</a></li>
+            </ul>
+            <!-- Mobile Navigation -->
+            <ul class="mobile-nav" id="mobileNav">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="recipes.html">Recipes</a></li>
+                <li><a href="aboutus.html">About</a></li>
+                <li><a href="contact.html" class="active" aria-current="page">Contact</a></li>
+            </ul>
+            <button id="modeToggle" aria-label="Toggle dark mode">🌙</button>
+        </nav>
+    </header>
+
+    <section class="recipe-page">
+        <div class="recipe-header">
+            <h1>Contact Us</h1>
+            <p>We'd love to hear from you!</p>
+        </div>
+        
+        <div style="max-width: 600px; margin: 0 auto;">
+            <form id="contactForm">
+                <div style="margin-bottom: 20px;">
+                    <label for="name" style="display: block; margin-bottom: 5px; font-weight: bold;">Name</label>
+                    <input type="text" id="name" name="name" required style="width: 100%; padding: 12px; border: 1px solid #ddd; border-radius: 5px; font-size: 16px;">
+                </div>
+                
+                <div style="margin-bottom: 20px;">
+                    <label for="email" style="display: block; margin-bottom: 5px; font-weight: bold;">Email</label>
+                    <input type="email" id="email" name="email" required style="width: 100%; padding: 12px; border: 1px solid #ddd; border-radius: 5px; font-size: 16px;">
+                </div>
+                
+                <div style="margin-bottom: 20px;">
+                    <label for="subject" style="display: block; margin-bottom: 5px; font-weight: bold;">Subject</label>
+                    <input type="text" id="subject" name="subject" required style="width: 100%; padding: 12px; border: 1px solid #ddd; border-radius: 5px; font-size: 16px;">
+                </div>
+                
+                <div style="margin-bottom: 20px;">
+                    <label for="message" style="display: block; margin-bottom: 5px; font-weight: bold;">Message</label>
+                    <textarea id="message" name="message" rows="6" required style="width: 100%; padding: 12px; border: 1px solid #ddd; border-radius: 5px; font-size: 16px;"></textarea>
+                </div>
+                
+                <button type="submit" class="btn" style="width: 100%;">Send Message</button>
+            </form>
+        </div>
+        
+        <div style="margin-top: 40px; text-align: center;">
+            <h2>Other Ways to Reach Us</h2>
+            <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 20px;">
+                <div>
+                    <h3>📧 Email</h3>
+                    <p>info@budgetrecipes.com</p>
+                </div>
+                <div>
+                    <h3>📱 Social Media</h3>
+                    <p>@BudgetRecipes</p>
+                </div>
+                <div>
+                    <h3>📍 Address</h3>
+                    <p>Nairobi, Kenya</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Budget Recipes | Accessible & Responsive | By Brian Koge Ngige</p>
+    </footer>
+
+    <script src="scripts/script.js"></script>
+</body>
+</html>
