@@ -5,6 +5,9 @@ A responsive recipe website with Kenyan and global recipes.
 Live Demo:
 https://budgetrecipe.netlify.app/
 
+Source Code:
+https://github.com/BrianKoge/Budget-Recipes.git
+
 Features:
 - Modern responsive design that works on desktop and mobile devices
 - Dark mode support with automatic system preference detection

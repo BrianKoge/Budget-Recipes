@@ -6,6 +6,10 @@ A responsive recipe website with Kenyan and global recipes.
 
 [https://budgetrecipe.netlify.app/](https://budgetrecipe.netlify.app/)
 
+## Source Code
+
+[GitHub Repository](https://github.com/BrianKoge/Budget-Recipes.git)
+
 ## Features
 
 - Modern responsive design that works on desktop and mobile devices
